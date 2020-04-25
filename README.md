@@ -6,6 +6,6 @@ This repository contains 2 jupyter notebooks.
 
 Relational Plots includes Scatter plots and Line plots.
 
-## 2. For creating Categorical Plots using Seaborn.
+## 2. For creating Categorical Plots using Seaborn
 
 Categorical Plots includes Count, Bar, Box and Point plots.
